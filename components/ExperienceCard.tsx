@@ -49,7 +49,7 @@ export default function ExperienceCard({}: Props) {
           Start Work Jan 2018 - Jun 2021 · 3 yrs 6 mos
         </p>
 
-        <ul className="list-disc space-y-4 ml-5 text-lg">
+        <ul className="list-none space-y-4 ml-5 text-lg">
           <li>summary point</li>
           <li>summary point</li>
           <li>summary point</li>

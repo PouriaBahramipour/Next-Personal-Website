@@ -17,31 +17,37 @@ export default function Header({}: Props) {
           url="https://linkedin.com/in/pourya-bahramipour-79a6ba93/"
           fgColor="gray"
           bgColor="transparent"
+          className="hover:scale-125 transition-all duration-300 "
         />
         <SocialIcon
           url="https://github.com/PouriaBahramipour"
           fgColor="gray"
           bgColor="transparent"
+          className="hover:scale-125 transition-all duration-300 "
         />
         <SocialIcon
           url="https://t.me/pourya_bahramipour"
           fgColor="gray"
-          bgColor="transparent"
+          bgColor="transparent "
+          className="hover:scale-125 transition-all duration-300 "
         />
         <SocialIcon
           url="https://www.instagram.com/pourya_bahramipour"
           fgColor="gray"
           bgColor="transparent"
+          className="hover:scale-125 transition-all duration-300 "
         />
         <SocialIcon
           url="https://twitter.com/pouryataloo"
           fgColor="gray"
           bgColor="transparent"
+          className="hover:scale-125 transition-all duration-300 "
         />
         <SocialIcon
           url="https://www.facebook.com/pourya.papo.98/"
           fgColor="gray"
           bgColor="transparent"
+          className="hover:scale-125 transition-all duration-300 "
         />
       </motion.div>
 
@@ -52,7 +58,7 @@ export default function Header({}: Props) {
         className="flex flex-row items-center text-gray-300 cursor-pointer"
       >
         <SocialIcon
-          className="cursor-pointer"
+          className="cursor-pointer hover:scale-125 transition-all duration-300 "
           network="email"
           fgColor="gray"
           bgColor="transparent"
