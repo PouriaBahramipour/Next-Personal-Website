@@ -1,8 +1,6 @@
 import React from "react";
 import { Typewriter, Cursor, useTypewriter } from "react-simple-typewriter";
-import BackgroundCircle from "./BackgroundCircle";
 import myPicture from "../src/assets/pourya24.jpg";
-import Shape from "./Shape";
 import Link from "next/link";
 
 type Props = {};
@@ -21,7 +19,7 @@ export default function Hero({}: Props) {
     <div className="h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden">
       {/* <BackgroundCircle /> */}
       <img
-        className="relative h-60 w-60 object-cover rounded-[80px] mx-auto"
+        className="relative h-60 w-60 object-cover rounded-[80px] opacity-60"
         src={myPicture.src}
         alt=""
       />
