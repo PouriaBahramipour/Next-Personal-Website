@@ -6,7 +6,7 @@ type Props = {};
 const skillItems = [
   {
     srcImage:
-      "https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png",
+      "https://fr.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png",
     skillLevel: 100,
   },
   {

@@ -13,14 +13,14 @@ const experienceItem = [
     skills: [
       {
         skill:
-          "https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png",
+          "https://fr.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png",
       },
       {
         skill: "https://cdn.cdnlogo.com/logos/c/18/css.svg",
       },
       {
         skill:
-          "https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png",
+          "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
       },
       {
         skill:
@@ -41,14 +41,14 @@ const experienceItem = [
     skills: [
       {
         skill:
-          "https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png",
+          "https://fr.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png",
       },
       {
         skill: "https://cdn.cdnlogo.com/logos/c/18/css.svg",
       },
       {
         skill:
-          "https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png",
+          "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
       },
       {
         skill:
@@ -76,7 +76,7 @@ const experienceItem = [
       },
       {
         skill:
-          "https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png",
+          "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
       },
       {
         skill:
