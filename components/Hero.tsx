@@ -3,9 +3,7 @@ import { Typewriter, Cursor, useTypewriter } from "react-simple-typewriter";
 import myPicture from "../src/assets/pourya24.jpg";
 import Link from "next/link";
 
-type Props = {};
-
-export default function Hero({}: Props) {
+export default function Hero() {
   const [text, count] = useTypewriter({
     words: [
       "Hi, The Name's Pourya Baharmipour",

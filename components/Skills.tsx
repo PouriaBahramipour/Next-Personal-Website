@@ -1,8 +1,6 @@
 import React from "react";
 import Skill from "./Skill";
 
-type Props = {};
-
 const skillItems = [
   {
     srcImage:
@@ -43,7 +41,7 @@ const skillItems = [
   { srcImage: "https://nuxtjs.ir/logos/nuxt-icon-white.png", skillLevel: 80 },
 ];
 
-export default function Skills({}: Props) {
+export default function Skills() {
   return (
     <div className="h-screen flex flex-col relative text-center md:text-left md:flex-row max-w-7xl px-10 justify-evenly mx-auto items-center ">
       <h3 className="absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl">
